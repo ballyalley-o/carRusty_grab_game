@@ -2,7 +2,7 @@
 
 > ## Description
 >
-> This Game is built in rusty engine. It is a simple game where you have to grab the car and move it to the other side of the road. You have to avoid the obstacles and the other cars. You can also collect coins to increase your score. The game is over when you hit an obstacle or another car. You can also pause the game by pressing the space bar.
+> This Game is built in rusty engine. It is a simple game where you have to grab the car and move it to the other side of the road. You have to avoid the obstacles and the other cars. You can also collect coins to increase your score. 
 
 <hr/>
 
