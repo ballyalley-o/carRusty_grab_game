@@ -24,6 +24,11 @@ impl Default for GameState {
 fn main() {
     let mut game = Game::new();
 
+    game.window_settings(WindowDescriptor {
+        title: "CarRUSTY Grab Game".to_string(),
+        ..Default::default()
+    });
+
     game.audio_manager.play_music(MusicPreset::WhimsicalPopsicle, 0.2);
 
     let player = game.add_sprite("player", SpritePreset::RacingCarRed);
@@ -31,10 +36,10 @@ fn main() {
     player.rotation = std::f32::consts::FRAC_PI_2;
     player.collision = true;
 
-    let score = game.add_text("score", "Score: 0");
+    let score = game.add_text("score", "SCORE: 0");
     score.translation = Vec2::new(520.00, 320.00);
 
-    let high_score = game.add_text("high_score", "High Score: 0");
+    let high_score = game.add_text("high_score", "HIGH SCORE: {}");
     high_score.translation = Vec2::new(-520.00, 320.00);
 
     game.add_logic(game_logic);
@@ -42,6 +47,20 @@ fn main() {
 }
 
 fn game_logic(engine: &mut Engine, game_state: &mut GameState) {
+    // exits if q is pressed
+    if engine.keyboard_state.just_pressed(KeyCode::Q) {
+        engine.should_exit = true;
+    }
+    // keep text in place in the edge of the screen
+    let offset =( (engine.time_since_startup_f64 * 3.0).cos() * 5.0) as f32;
+    let score = engine.texts.get_mut("score").unwrap();
+    score.translation.x = engine.window_dimensions.x / 2.0 - 80.0;
+    score.translation.y = engine.window_dimensions.y / 2.0 - 30.0 + offset;
+
+    let high_score = engine.texts.get_mut("high_score").unwrap();
+    high_score.translation.x = -engine.window_dimensions.x / 2.0 + 110.0;
+    high_score.translation.y = engine.window_dimensions.y / 2.0 - 30.0;
+
     // handle collisions
 for event in engine.collision_events.drain(..) {
     if event.state == CollisionState::Begin && event.pair.one_starts_with("player") {
