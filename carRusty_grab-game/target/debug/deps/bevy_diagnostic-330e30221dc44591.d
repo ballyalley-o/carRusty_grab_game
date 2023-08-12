@@ -1,9 +1,0 @@
-/Users/bally/Desktop/workspace/carRusty_game/carRusty_grab-game/target/debug/deps/bevy_diagnostic-330e30221dc44591.rmeta: /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_diagnostic-0.6.0/src/lib.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_diagnostic-0.6.0/src/diagnostic.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_diagnostic-0.6.0/src/entity_count_diagnostics_plugin.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_diagnostic-0.6.0/src/frame_time_diagnostics_plugin.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_diagnostic-0.6.0/src/log_diagnostics_plugin.rs
-
-/Users/bally/Desktop/workspace/carRusty_game/carRusty_grab-game/target/debug/deps/bevy_diagnostic-330e30221dc44591.d: /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_diagnostic-0.6.0/src/lib.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_diagnostic-0.6.0/src/diagnostic.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_diagnostic-0.6.0/src/entity_count_diagnostics_plugin.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_diagnostic-0.6.0/src/frame_time_diagnostics_plugin.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_diagnostic-0.6.0/src/log_diagnostics_plugin.rs
-
-/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_diagnostic-0.6.0/src/lib.rs:
-/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_diagnostic-0.6.0/src/diagnostic.rs:
-/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_diagnostic-0.6.0/src/entity_count_diagnostics_plugin.rs:
-/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_diagnostic-0.6.0/src/frame_time_diagnostics_plugin.rs:
-/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_diagnostic-0.6.0/src/log_diagnostics_plugin.rs:
