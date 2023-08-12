@@ -1,0 +1,10 @@
+/Users/bally/Desktop/workspace/carRusty_game/carRusty_grab-game/target/release/deps/bevy_macro_utils-fe4ab10d8b340475.rmeta: /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_macro_utils-0.8.1/src/lib.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_macro_utils-0.8.1/src/attrs.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_macro_utils-0.8.1/src/shape.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_macro_utils-0.8.1/src/symbol.rs
+
+/Users/bally/Desktop/workspace/carRusty_game/carRusty_grab-game/target/release/deps/libbevy_macro_utils-fe4ab10d8b340475.rlib: /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_macro_utils-0.8.1/src/lib.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_macro_utils-0.8.1/src/attrs.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_macro_utils-0.8.1/src/shape.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_macro_utils-0.8.1/src/symbol.rs
+
+/Users/bally/Desktop/workspace/carRusty_game/carRusty_grab-game/target/release/deps/bevy_macro_utils-fe4ab10d8b340475.d: /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_macro_utils-0.8.1/src/lib.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_macro_utils-0.8.1/src/attrs.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_macro_utils-0.8.1/src/shape.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_macro_utils-0.8.1/src/symbol.rs
+
+/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_macro_utils-0.8.1/src/lib.rs:
+/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_macro_utils-0.8.1/src/attrs.rs:
+/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_macro_utils-0.8.1/src/shape.rs:
+/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_macro_utils-0.8.1/src/symbol.rs:

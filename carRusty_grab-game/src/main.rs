@@ -1,3 +1,8 @@
+use rusty_engine::prelude::*;
+
 fn main() {
-    println!("Hello, world!");
+    let mut game = Game::new();
+
+    // setup game
+    game.run(());
 }

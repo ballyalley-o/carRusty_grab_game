@@ -1,0 +1,11 @@
+/Users/bally/Desktop/workspace/carRusty_game/carRusty_grab-game/target/debug/deps/bevy_scene-88b2e993f5768506.rmeta: /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/lib.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/bundle.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/dynamic_scene.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/scene.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/scene_loader.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/scene_spawner.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/serde.rs
+
+/Users/bally/Desktop/workspace/carRusty_game/carRusty_grab-game/target/debug/deps/bevy_scene-88b2e993f5768506.d: /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/lib.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/bundle.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/dynamic_scene.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/scene.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/scene_loader.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/scene_spawner.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/serde.rs
+
+/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/lib.rs:
+/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/bundle.rs:
+/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/dynamic_scene.rs:
+/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/scene.rs:
+/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/scene_loader.rs:
+/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/scene_spawner.rs:
+/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_scene-0.8.1/src/serde.rs:

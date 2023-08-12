@@ -1,0 +1,11 @@
+/Users/bally/Desktop/workspace/carRusty_game/carRusty_grab-game/target/debug/deps/bevy_input-07bfdd459ee67276.rmeta: /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/lib.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/axis.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/gamepad.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/input.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/keyboard.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/mouse.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/touch.rs
+
+/Users/bally/Desktop/workspace/carRusty_game/carRusty_grab-game/target/debug/deps/bevy_input-07bfdd459ee67276.d: /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/lib.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/axis.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/gamepad.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/input.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/keyboard.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/mouse.rs /Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/touch.rs
+
+/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/lib.rs:
+/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/axis.rs:
+/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/gamepad.rs:
+/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/input.rs:
+/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/keyboard.rs:
+/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/mouse.rs:
+/Users/bally/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_input-0.8.1/src/touch.rs:

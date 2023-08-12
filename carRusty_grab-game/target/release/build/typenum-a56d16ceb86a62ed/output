@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/bally/Desktop/workspace/carRusty_game/carRusty_grab-game/target/release/build/typenum-a56d16ceb86a62ed/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/bally/Desktop/workspace/carRusty_game/carRusty_grab-game/target/release/build/typenum-a56d16ceb86a62ed/out/op.rs
