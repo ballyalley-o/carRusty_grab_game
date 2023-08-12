@@ -1,0 +1,18 @@
+# Compiled output
+/target/
+
+# Dependency directories
+Cargo.lock
+**/target/
+**/Cargo.lock
+
+# Build artifacts
+*.rs.bk
+
+# Temp files
+*.log
+*.tmp
+*.temp
+
+# Documentation
+/target/doc/
