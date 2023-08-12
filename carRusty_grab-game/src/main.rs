@@ -39,7 +39,7 @@ fn main() {
     let score = game.add_text("score", "SCORE: 0");
     score.translation = Vec2::new(520.00, 320.00);
 
-    let high_score = game.add_text("high_score", "HIGH SCORE: {}");
+    let high_score = game.add_text("high_score", "HIGH SCORE: 0");
     high_score.translation = Vec2::new(-520.00, 320.00);
 
     game.add_logic(game_logic);
